@@ -1,0 +1,9 @@
+{
+  "loadingSleep": 5, // sayfa açılışında bekleme süresi. internetiniz yavaş ise arttırınız.
+  "workSleep": 5, // işlemler arası bekleme süresi. bilgisayarınız yavaş ise arttırınız.
+  "user-agent": "off", // her defasında farklı bilgisayar ve tarayıcı tarafından giriş için 'on' yapınız.
+  "vpn": "on", // farklı ip adresi üzerinden işlem yapmak için 'on' yapınız.
+  "locationID": "eqQYZc", // google.com arama sonuçları altındaki 'Tam konumu kullan' linkine tıklar.
+  "scroll-bot": "on", // hedef siteye giriş yaptıktan sonra sayfa içerisinde gezer. Bu işlem 5 saniye kadar sürebilir.
+  "adSiteSleep" : 30 // hedef site içerisinde kaç saniye kalsın?
+}
