@@ -1,4 +1,4 @@
-pip install selenium
-pip install requests
-pip install webdriver-manager
-pip install pyinstaller
+selenium
+requests
+webdriver-manager
+pyinstaller
